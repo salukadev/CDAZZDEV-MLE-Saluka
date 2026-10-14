@@ -1,0 +1,15 @@
+{"example_id": "INC-7-0059", "event_type": "carrier_no_show", "industry": "automotive_jit"}
+{"example_id": "INC-7-0082", "event_type": "cold_chain_excursion", "industry": "consumer_electronics"}
+{"example_id": "INC-7-0044", "event_type": "customs_hold", "industry": "automotive_jit"}
+{"example_id": "INC-7-0146", "event_type": "damage_on_receipt", "industry": "automotive_jit"}
+{"example_id": "INC-7-0064", "event_type": "demand_spike", "industry": "consumer_electronics"}
+{"example_id": "INC-7-0100", "event_type": "duplicate_asn", "industry": "pharma_cold_chain"}
+{"example_id": "INC-7-0074", "event_type": "forecast_miss", "industry": "apparel"}
+{"example_id": "INC-7-0010", "event_type": "late_shipment", "industry": "consumer_electronics"}
+{"example_id": "INC-7-0106", "event_type": "lead_time_drift", "industry": "consumer_electronics"}
+{"example_id": "INC-7-0131", "event_type": "moq_breach", "industry": "automotive_jit"}
+{"example_id": "INC-7-0027", "event_type": "overstock", "industry": "grocery_perishables"}
+{"example_id": "INC-7-0127", "event_type": "port_congestion", "industry": "pharma_cold_chain"}
+{"example_id": "INC-7-0034", "event_type": "quality_reject", "industry": "pharma_cold_chain"}
+{"example_id": "INC-7-0019", "event_type": "stockout", "industry": "consumer_electronics"}
+{"example_id": "INC-7-0112", "event_type": "warehouse_mispick", "industry": "pharma_cold_chain"}

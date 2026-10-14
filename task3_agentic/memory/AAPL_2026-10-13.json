@@ -1,0 +1,174 @@
+{
+  "ticker": "AAPL",
+  "headlines": [
+    "Apple Prepares New Smart Home Devices Featuring AI-Enhanced Siri",
+    "Apple Needs Phones and Smart Homes to Revive Pricey Stock",
+    "AAPL Stock Ticks Higher: BofA Flags Shorter iPhone 18 Pro Wait Time As Duo Pre-Order Shipments Loom",
+    "Dow Jones Futures: Micron, Nvidia Lead AI Trade Lower; Apple, Meta Rally Near Buy Points",
+    "Apple Stock Scores Price-Target Hike Ahead Of Smart Home Launch",
+    "Apple co-founder's forgotten company lands Nasdaq deal",
+    "Apple Stock Nears Record High As iPhone Market Share Hits 22% Despite 20% Smartphone Market Slump",
+    "Apple Is Near a $5 Trillion Market Cap (Again)",
+    "How Apple Plans to Compete in the Home: Power On",
+    "Apple cuts iPhone 18 Pro orders as AI raises the bill"
+  ],
+  "search_results": [],
+  "data_brief": {
+    "ticker": "AAPL",
+    "as_of": "2026-10-12",
+    "price": {
+      "ticker": "AAPL",
+      "as_of": "2026-10-12",
+      "period": "2y",
+      "rows": 500,
+      "current_price": 340.9700012207031,
+      "high_52w": 345.3399963378906,
+      "low_52w": 243.4199981689453,
+      "sma_50": 323.0298010253906,
+      "sma_200": 291.086499786377,
+      "rsi_14": 60.20673859193633,
+      "macd": 3.6373359508481826,
+      "macd_signal": 3.8235248117284844,
+      "macd_histogram": -0.18618886088030173,
+      "bollinger_upper": 342.71980947072797,
+      "bollinger_middle": 335.7835037231445,
+      "bollinger_lower": 328.8471979755611
+    },
+    "volatility": {
+      "ticker": "AAPL",
+      "window": 30,
+      "annualized_volatility": 0.2131187750711461,
+      "observations": 30
+    },
+    "sentiment": {
+      "items": [
+        {
+          "headline": "Apple Prepares New Smart Home Devices Featuring AI-Enhanced Siri",
+          "sentiment": "positive",
+          "confidence": 0.85,
+          "brief_reason": "Announces new AI\u2011enhanced products, indicating growth potential."
+        },
+        {
+          "headline": "Apple Needs Phones and Smart Homes to Revive Pricey Stock",
+          "sentiment": "negative",
+          "confidence": 0.8,
+          "brief_reason": "Implies current stock pressure and reliance on product categories to recover."
+        },
+        {
+          "headline": "AAPL Stock Ticks Higher: BofA Flags Shorter iPhone 18 Pro Wait Time As Duo Pre-Order Shipments Loom",
+          "sentiment": "positive",
+          "confidence": 0.9,
+          "brief_reason": "Stock rise and faster shipments suggest positive market reaction."
+        },
+        {
+          "headline": "Dow Jones Futures: Micron, Nvidia Lead AI Trade Lower; Apple, Meta Rally Near Buy Points",
+          "sentiment": "positive",
+          "confidence": 0.85,
+          "brief_reason": "Apple rallying near buy points signals investor optimism."
+        },
+        {
+          "headline": "Apple Stock Scores Price-Target Hike Ahead Of Smart Home Launch",
+          "sentiment": "positive",
+          "confidence": 0.9,
+          "brief_reason": "Analyst upgrade ahead of product launch reflects confidence."
+        },
+        {
+          "headline": "Apple co-founder's forgotten company lands Nasdaq deal",
+          "sentiment": "neutral",
+          "confidence": 0.7,
+          "brief_reason": "News about a related venture, not directly affecting Apple performance."
+        },
+        {
+          "headline": "Apple Stock Nears Record High As iPhone Market Share Hits 22% Despite 20% Smartphone Market Slump",
+          "sentiment": "positive",
+          "confidence": 0.9,
+          "brief_reason": "Record\u2011high stock and rising market share indicate strong performance."
+        },
+        {
+          "headline": "Apple Is Near a $5 Trillion Market Cap (Again)",
+          "sentiment": "positive",
+          "confidence": 0.9,
+          "brief_reason": "Approaching a $5T valuation underscores market confidence."
+        },
+        {
+          "headline": "How Apple Plans to Compete in the Home: Power On",
+          "sentiment": "neutral",
+          "confidence": 0.75,
+          "brief_reason": "Strategic overview without clear positive or negative tone."
+        },
+        {
+          "headline": "Apple cuts iPhone 18 Pro orders as AI raises the bill",
+          "sentiment": "negative",
+          "confidence": 0.85,
+          "brief_reason": "Order cuts and higher costs suggest operational challenges."
+        }
+      ],
+      "overall_sentiment": "positive",
+      "overall_score": 0.4345
+    },
+    "quantitative_risks": [
+      {
+        "name": "MACD below signal",
+        "evidence": "MACD histogram is -0.186.",
+        "severity": "medium"
+      },
+      {
+        "name": "Volatility regime",
+        "evidence": "30-session annualised volatility is 21.3%.",
+        "severity": "low"
+      },
+      {
+        "name": "Distance from 52-week high",
+        "evidence": "Price is 1.3% below the 52-week high 345.34.",
+        "severity": "low"
+      }
+    ],
+    "notes": "AAPL trades at $340.97, comfortably above its 50\u2011day SMA ($323.03) and 200\u2011day SMA ($291.09), while the RSI of 60.21 reinforces the bullish bias. However, the MACD histogram is slightly negative (\u20110.19) and the price is near the upper Bollinger band ($342.72), suggesting a potential short\u2011term pullback despite positive sentiment and a 21.3% annualized volatility."
+  },
+  "clarification_request": {
+    "missing_field": "annualized_volatility_90d",
+    "question": "The data brief used a 30-session volatility window. The research question covers the next 90 days. Return annualised historical volatility with window=90 and state whether the 90-session figure is higher or lower than the 30-session figure."
+  },
+  "clarification_response": {
+    "missing_field": "annualized_volatility_90d",
+    "answer": "90-session volatility is 29.06%, higher than the 30-session 21.31%.",
+    "volatility": {
+      "ticker": "AAPL",
+      "window": 90,
+      "annualized_volatility": 0.290567961010307,
+      "observations": 90
+    }
+  },
+  "final_report": {
+    "ticker": "AAPL",
+    "financial_health_summary": "Apple (AAPL) is trading at $340.97, just 1.3% below its 52\u2011week high of $345.34 and comfortably above both its 50\u2011day SMA ($323.03) and 200\u2011day SMA ($291.09), indicating a strong upward trend. Technical indicators show bullish momentum with an RSI of 60.2, though the MACD histogram is slightly negative (-0.186) and the price sits near the upper Bollinger band ($342.72), hinting at a possible short\u2011term pullback. Volatility has risen, with 30\u2011day annualised volatility at 21.3% and 90\u2011day volatility spiking to 29.06%, reflecting heightened market uncertainty. Overall sentiment remains positive, driven by upbeat headlines about AI\u2011enhanced smart\u2011home products and analyst upgrades, yielding an overall sentiment score of 0.4345.",
+    "top_three_risks": [
+      {
+        "name": "MACD below signal",
+        "evidence": "MACD histogram is -0.186.",
+        "severity": "medium"
+      },
+      {
+        "name": "Volatility regime",
+        "evidence": "30-session annualised volatility is 21.3%.",
+        "severity": "low"
+      },
+      {
+        "name": "Distance from 52-week high",
+        "evidence": "Price is 1.3% below the 52-week high 345.34.",
+        "severity": "low"
+      }
+    ],
+    "hedge_strategy": "Implement a protective\u2011put collar: buy a put option with a strike roughly 5% below the current price (around $324) and sell a call at the 52\u2011week high ($345) to offset premium cost. The 90\u2011session annualised volatility of 29.06% justifies the deeper put protection, as higher volatility increases the probability of a downside move beyond the chosen strike.",
+    "used_clarification": "The clarification that 90\u2011session volatility is 29.06% (higher than the 30\u2011session 21.31%) confirmed the need for a more aggressive protective\u2011put distance."
+  },
+  "report_source": "llm",
+  "steps": [
+    "[writer] get_news -> ok=True count=10",
+    "[analyst] price ok, vol(30)=21.31%, sentiment=positive",
+    "[analyst -> writer] DataBrief handed off:\n{\n  \"ticker\": \"AAPL\",\n  \"as_of\": \"2026-10-12\",\n  \"price\": {\n    \"ticker\": \"AAPL\",\n    \"as_of\": \"2026-10-12\",\n    \"period\": \"2y\",\n    \"rows\": 500,\n    \"current_price\": 340.9700012207031,\n    \"high_52w\": 345.3399963378906,\n    \"low_52w\": 243.4199981689453,\n    \"sma_50\": 323.0298010253906,\n    \"sma_200\": 291.086499786377,\n    \"rsi_14\": 60.20673859193633,\n    \"macd\": 3.6373359508481826,\n    \"macd_signal\": 3.8235248117284844,\n    \"macd_histogram\": -0.18618886088030173,\n    \"bollinger_upper\": 342.71980947072797,\n    \"bollinger_middle\": 335.7835037231445,\n    \"bollinger_lower\": 328.8471979755611\n  },\n  \"volatility\": {\n    \"ticker\": \"AAPL\",\n    \"window\": 30,\n    \"annualized_volatility\": 0.2131187750711461,\n    \"observations\": 30\n  },\n  \"sentiment\": {\n    \"overall_sentiment\": \"positive\",\n    \"overall_score\": 0.4345\n  },\n  \"quantitative_risks\": [\n    {\n      \"name\": \"MACD below signal\",\n      \"evidence\": \"MACD histogram is -0.186.\",\n      \"severity\": \"medium\"\n    },\n    {\n      \"name\": \"Volatility regime\",\n      \"evidence\": \"30-session annualised volatility is 21.3%.\",\n      \"severity\": \"low\"\n    },\n    {\n      \"name\": \"Distance from 52-week high\",\n      \"evidence\": \"Price is 1.3% below the 52-week high 345.34.\",\n      \"severity\": \"low\"\n    }\n  ],\n  \"notes\": \"AAPL trades at $340.97, comfortably above its 50\u2011day SMA ($323.03) and 200\u2011day SMA ($291.09), while the RSI of 60.21 reinforces the bullish bias. However, the MACD histogram is slightly negative (\u20110.19) and the price is near the upper Bollinger band ($342.72), suggesting a potential short\u2011term pullback despite positive sentiment and a 21.3% annualized volatility.\"\n}",
+    "[writer -> analyst] clarification request: {\"missing_field\":\"annualized_volatility_90d\",\"question\":\"The data brief used a 30-session volatility window. The research question covers the next 90 days. Return annualised historical volatility with window=90 and state whether the 90-session figure is higher or lower than the 30-session figure.\"}",
+    "[analyst -> writer] clarification response: {\"missing_field\":\"annualized_volatility_90d\",\"answer\":\"90-session volatility is 29.06%, higher than the 30-session 21.31%.\",\"volatility\":{\"ticker\":\"AAPL\",\"window\":90,\"annualized_volatility\":0.290567961010307,\"observations\":90}}",
+    "[writer] web_search -> ok=True results=5"
+  ]
+}

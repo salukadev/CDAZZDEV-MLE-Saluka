@@ -1,0 +1,44 @@
+{
+  "count": 150,
+  "prompt_length_chars": {
+    "n": 150,
+    "min": 424,
+    "median": 727,
+    "p90": 816,
+    "max": 905
+  },
+  "event_type_counts": {
+    "late_shipment": 10,
+    "stockout": 10,
+    "overstock": 10,
+    "quality_reject": 10,
+    "customs_hold": 10,
+    "carrier_no_show": 10,
+    "demand_spike": 10,
+    "forecast_miss": 10,
+    "cold_chain_excursion": 10,
+    "duplicate_asn": 10,
+    "lead_time_drift": 10,
+    "warehouse_mispick": 10,
+    "port_congestion": 10,
+    "moq_breach": 10,
+    "damage_on_receipt": 10
+  },
+  "event_type_max_share": 0.0667,
+  "industry_counts": {
+    "grocery_perishables": 26,
+    "consumer_electronics": 26,
+    "automotive_jit": 25,
+    "apparel": 25,
+    "pharma_cold_chain": 24,
+    "industrial_parts": 24
+  },
+  "industry_max_share": 0.1733,
+  "near_duplicates": {
+    "threshold": 0.8,
+    "near_duplicate_rate": 0.0,
+    "flagged": 0,
+    "max_nearest_jaccard": 0.7368,
+    "median_nearest_jaccard": 0.6264
+  }
+}
