@@ -1,0 +1,2 @@
+# URL for the Hugging Face model
+https://huggingface.co/paulg28/supply-chain-anomaly-qwen2.5-3b-instruct
