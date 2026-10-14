@@ -30,3 +30,5 @@ python -m task3_agentic.src.pipeline --ticker AAPL                  # cache hit
 python -m task3_agentic.src.pipeline --ticker AAPL --mode single    # ReAct agent
 streamlit run task3_agentic/app/dashboard.py                        # trace dashboard (bonus)
 ```
+
+![Streamlit trace dashboard](screenshots/dashboard_view.png)

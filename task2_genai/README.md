@@ -1,8 +1,8 @@
 # Task 2 — Supply-chain anomaly explainer (QLoRA)
 
-<a href="https://colab.research.google.com/github/YOUR_GITHUB/CDAZZDEV-MLE-YourName/blob/main/task2_genai/notebooks/supply_chain_finetune.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/salukadev/CDAZZDEV-MLE-Saluka/blob/main/task2_genai/notebooks/supply_chain_finetune.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-- **Merged model:** `https://huggingface.co/<hf-user>/supply-chain-anomaly-qwen2.5-3b-instruct` (printed by the last notebook cell)
+- **Merged model:** https://huggingface.co/paulg28/supply-chain-anomaly-qwen2.5-3b-instruct
 - **Teacher / student:** Groq `openai/gpt-oss-120b` labels the data; `Qwen/Qwen2.5-3B-Instruct` is fine-tuned. The account no longer serves Llama 3.3 70B, and the teacher stays a different family from the student.
 
 ## Problem
